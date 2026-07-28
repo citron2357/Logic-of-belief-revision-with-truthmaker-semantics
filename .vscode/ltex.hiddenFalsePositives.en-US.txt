@@ -1,0 +1,2 @@
+{"rule":"EN_UNPAIRED_QUOTES","sentence":"^\\QIn this case, a faithful modelling seems not to remove all the beliefs (or all the logically intermediate beliefs) from the original belief set, but only to remove the conjunction, yet retaining all the `atomic' belief.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\Q[(D5)] Hyperintensionality Hyperintensionality is automatically granted in our frameworks, for underlying truthmaker model is already hyperintensional.\\E$"}

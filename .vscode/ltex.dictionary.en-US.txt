@@ -15,3 +15,13 @@ Antisymmetry
 iff
 antisymmetry
 antisymmetry
+subformulas
+Exhaustivity
+modus
+ponens
+Frege
+Amr
+al-Layth
+Saffarid
+ibn
+hyperintensionally
